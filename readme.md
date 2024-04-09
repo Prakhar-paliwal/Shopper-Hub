@@ -1,6 +1,6 @@
 # Shopper Hub
 
-Welcome to Shopper Hub, your one-stop destination for men's, women's, and kids' apparel and fashion wear. This project is built using Vite + React and provides a seamless shopping experience for users, including an admin panel for managing products and other functionalities.
+Welcome to Shopper Hub, your one-stop destination for men's, women's, and kids' apparel and fashion wear. This project is built using MERN stack and provides a seamless shopping experience for users, including an admin panel for managing products and other functionalities.
 
 ## Features
 
